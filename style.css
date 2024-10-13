@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+}
+
+.box{
+    width: 100px;
+    height: 90px;
+    border: 5px solid black;
+    display: inline-block;
+    margin: -4px;
+   
+}
+
+.black {
+    background-color: black;
+} 
+
+ 
